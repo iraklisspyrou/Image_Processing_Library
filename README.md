@@ -12,12 +12,6 @@ This image processing library, written in C++, provides tools for analyzing and 
   - **Gamma Correction Filter:** Adjusts the image brightness using a gamma parameter.
   - **Statistic Filter:** Extracts statistical data from regions of the image, such as mean value and variance.
 
-- **Image Transformations:** 
-  - Supports resizing, rotating, and flipping operations on images.
-
-- **Image Analysis:**
-  - Provides capabilities for extracting histograms and other basic statistics from images.
-
 ## Installation
 
 To install the library, follow these steps:
