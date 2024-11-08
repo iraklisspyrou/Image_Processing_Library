@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\PipImageIO.h(48,16): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\MhdImageIO.h(117,16): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\ConvolutionFilter.h(34,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\ConvolutionFilter.h(34,45): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\ConvolutionFilter.h(38,62): warning C4018: '<': signed/unsigned mismatch
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\ConvolutionFilter.h(39,66): warning C4018: '<': signed/unsigned mismatch
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\ConvolutionFilter.h(43,64): warning C4244: '=': conversion from 'double' to 'Image::T', possible loss of data
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\Source.cpp(50,15): warning C4244: 'initializing': conversion from 'double' to 'short', possible loss of data
+C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\Image_Processing_Library_2\ImageIOFactory.h(24): warning C4715: 'ImageIOFactory::getIO': not all control paths return a value
+  Image_Processing_Library_2.vcxproj -> C:\Users\irakl\OneDrive\Υπολογιστής\Medical_Imaging\PMI\Image processing library\Image_Processing_Library_2\x64\Debug\Image_Processing_Library_2.exe
